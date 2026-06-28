@@ -1,0 +1,6 @@
+{
+  "name": "Don's Chiropractic",
+  "description": "A modern website for Don's Chiropractic, featuring clinic details, online booking, SEO metadata, and a clean, accessible layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
